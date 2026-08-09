@@ -1,4 +1,4 @@
-# Lab 2 - Linear Regression
+# Lab 2 - Regression
 
 ## Aim
 
