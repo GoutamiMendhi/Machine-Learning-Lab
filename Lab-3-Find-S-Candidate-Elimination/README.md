@@ -7,10 +7,3 @@ To implement Find-S and Candidate Elimination Algorithms on the Enjoy Sports dat
 ## Dataset
 
 Enjoy Sports Dataset
-
-## Student Details
-
-Name: Goutami Mendhi
-Section: B
-Roll No.: 51
-Batch: B4
