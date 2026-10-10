@@ -7,10 +7,3 @@ To develop a Linear Regression model for predicting house prices using a suitabl
 ## Dataset
 
 USA Housing Dataset
-
-## Student Details
-
-Name: Goutami Mendhi
-Section: B
-Roll No.: 51
-Batch: B4
